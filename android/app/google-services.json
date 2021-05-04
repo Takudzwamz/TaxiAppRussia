@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "310804505192",
+    "firebase_url": "https://uber-clone-d6e29-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "uber-clone-d6e29",
+    "storage_bucket": "uber-clone-d6e29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310804505192:android:07e57fefc9466721cb91dd",
+        "android_client_info": {
+          "package_name": "com.example.taxiapprus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310804505192-2kgflu5qr27fgns6hpdoi0nds6oujo5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDexGaaZJSs3SrGHIUf1_9lTQcrCjbsQsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310804505192-2kgflu5qr27fgns6hpdoi0nds6oujo5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
